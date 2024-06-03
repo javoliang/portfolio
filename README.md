@@ -1,5 +1,11 @@
 # 👋 Hello, I'm Javier Liang!
 
+![Banner](https://github.com/javoliang/javoliang/assets/137265733/f6f3e300-3344-4650-b2b4-0790c0162720) <!-- Replace with the actual URL of your banner image -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-liang)
+![Profile Views](https://komarev.com/ghpvc/?username=javierliang&color=blue&style=flat-square)
+
+
 ## 🚀 About Me
 
 I'm a passionate QA Engineer fluent in English, Chinese Mandarin, and Spanish, with a proven track record in project management and commercial operations. With a sharp eye for detail and a dedication to identifying bugs to prevent issues, I'm motivated by delivering high-quality products that exceed user expectations. My diverse skill set includes expertise in efficient agile workflows and modern quality control tools like JIRA, Postman, and Selenium.
