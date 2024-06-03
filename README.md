@@ -33,8 +33,8 @@ I'm a passionate QA Engineer fluent in English, Chinese Mandarin, and Spanish, w
 
 ## 📊 GitHub Statistics
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierliang&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierliang&layout=compact&theme=radical)
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javoliang&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javoliang&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
