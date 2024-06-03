@@ -1,10 +1,14 @@
 # 👋 Hello, I'm Javier Liang!
 
-![Banner](https://github.com/javoliang/javoliang/assets/137265733/f6f3e300-3344-4650-b2b4-0790c0162720) <!-- Replace with the actual URL of your banner image -->
+![Banner](https://github.com/javoliang/javoliang/assets/137265733/f6f3e300-3344-4650-b2b4-0790c0162720)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-liang)
-![Profile Views](https://komarev.com/ghpvc/?username=javierliang&color=blue&style=flat-square)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/javier-liang">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=javierliang&color=blue&style=flat-square" alt="Profile Views">
+</p>
 
 ## 🚀 About Me
 
